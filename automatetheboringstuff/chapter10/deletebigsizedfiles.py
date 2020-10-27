@@ -12,6 +12,6 @@ def removefiles(oldir):
                 print("Successfully removed.")
 
 if __name__ == "__main__":
-    os.chdir('')
+    os.chdir('/secretfolder')
     oldir = os.getcwd()
     removefiles(oldir)
