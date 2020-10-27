@@ -16,6 +16,7 @@ while guess not in ('heads', 'tails'):
         toss = 'heads'
     else:
         toss = 'tails'
+        
     if toss == guess:
         print('You got it!')
     else:
