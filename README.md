@@ -10,6 +10,7 @@ Other books/sources:
  * <a href="https://www.fullstackpython.com/">Full-Stack Python</a>
  * <a href="https://github.com/ForrestKnight/open-source-cs-python">Open Source CS Python</a>
  * <a href="https://github.com/ossu/computer-science">OSSU Course</a>
+ * <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB">freeCodeCamp.org Python Tutorials</a>
 
 
 Best Examples:
