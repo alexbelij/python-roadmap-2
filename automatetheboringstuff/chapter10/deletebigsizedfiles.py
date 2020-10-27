@@ -6,7 +6,7 @@ def removefiles(oldir):
         for files in filenames:
             os.chdir(folders)
             size = os.path.getsize(files)
-            if size >= 100000000:
+            if size >= 104857600:
                 print(os.path.abspath(files))
                 os.remove(files)
                 print("Successfully removed.")
