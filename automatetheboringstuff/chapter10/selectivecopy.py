@@ -8,7 +8,6 @@ my_dir = os.getcwd()
 extension = ['.jpg', '.pdf']
 print(my_dir)
 
-
 for ext in extension:
     for folders, subfolders, filenames in os.walk(my_dir):
         for filename in filenames:
