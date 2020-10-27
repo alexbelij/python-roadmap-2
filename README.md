@@ -1,3 +1,3 @@
 # automatetheboringstuff
 For the book Automate the Boring Stuff with Python by Al Sweigart
- * https://automatetheboringstuff.com/2e/chapter10/
+ * <a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a>
