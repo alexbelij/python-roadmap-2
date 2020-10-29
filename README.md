@@ -1,7 +1,6 @@
 # Python Developer Roadmap
  
- run pip install -r requirements.txt
- to install all required dependencies
+ run pip install -r requirements.txt to install all required dependencies.
 
  For the book Automate the Boring Stuff with Python by Al Sweigart
  * <a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a>
@@ -20,7 +19,11 @@ Other books/sources:
 Best Examples:
  * <a href="https://www.youtube.com/watch?v=lOeIDvyRUQs">Best explanation of an Entry point (Main Guard) in python</a>
 
-
+Look into:
+ * Pandas
+ * Django
+ * Flask
+ 
 GUI for Python:
  * Tkinter
  * PySimpleGUI
