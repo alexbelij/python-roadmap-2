@@ -1,5 +1,8 @@
 # Python Developer Roadmap
  
+ run pip install -r requirements.txt
+ to install all required dependencies
+
  For the book Automate the Boring Stuff with Python by Al Sweigart
  * <a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a>
 
@@ -11,8 +14,8 @@ Other books/sources:
  * <a href="https://www.fullstackpython.com/">Full-Stack Python</a>
  * <a href="https://github.com/ForrestKnight/open-source-cs-python">Open Source CS Python</a>
  * <a href="https://github.com/ossu/computer-science">OSSU Course</a>
- * <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB">freeCodeCamp.org Python Tutorials</a>
-
+ * <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB">freeCodeCamp.org Python Tutorials Youtube</a>
+ * <a href="https://freecodecamp.org/">freecodecamp.org website</a>
 
 Best Examples:
  * <a href="https://www.youtube.com/watch?v=lOeIDvyRUQs">Best explanation of an Entry point (Main Guard) in python</a>
