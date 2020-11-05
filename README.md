@@ -5,6 +5,14 @@
  For the book Automate the Boring Stuff with Python by Al Sweigart
  * <a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a>
 
+ External libraries used:
+    * requests
+    * beautifulsoup
+    * selenium
+    * openpyxl
+    * Pillow
+    * pyautogui
+    * pyperclip
 
 Other books/sources:
  * <a href="https://greenteapress.com/wp/think-python-2e/">Think Python</a>
